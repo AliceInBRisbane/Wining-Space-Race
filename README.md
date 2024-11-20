@@ -30,4 +30,4 @@ Machine Learning Predictive Analysis using Classification Models - Data that was
 <li>Two booster versions failed at landing in drone ships in 2015: F9 v1.1 B1012 and F9 v1.1 B1015;</li>
 <li>The number of landing outcomes became as better as years passed.</li>
 <li>Using interactive analytics was possible to identify that launch sites use to be in safety places, near sea and have a good logistic infrastructure around</li>
-<li>Predictive Analysis showed that Decision Tree Classifier is the best model to predict successful landings, having accuracy over 87% and accuracy for test data over 94%.</li>
+<li>Predictive Analysis showed that Decision Tree Classifier is the best model to predict successful landings, having accuracy over 86% and accuracy for test data over 94%.</li>
